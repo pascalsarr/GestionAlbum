@@ -4,9 +4,12 @@ Apllication en JEE avec l' API JPA permettant la Gestion des ALBUMS utilisateurs
 
 # Fonctionnalités
 
-2- Opérations CRUD Comme
-       - Authentification de l' Administrateur et l'Utilisateur.
+2- Opérations CRUD 
+
+       - Authentification de l' Administrateur et l'Utilisateur
+       
        - l' Administrateur peut ajouter, modifier, supprimer un Utilisateur.
+        
        - l' Utilisateur peut ajouter, modifier, supprimer un Album. 
 
 # Outils et Technologies
