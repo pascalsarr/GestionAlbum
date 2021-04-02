@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+
+body{
+	background-color:#e8f3f8
+}
+
+form
+{
+margin: 20px auto;
+width: 320px;
+}
+label
+{
+	display: block; 
+	width: 150px;
+	float: left;
+}
+input
+{
+	margin:10px;
+	width: 200px;
+
+}
